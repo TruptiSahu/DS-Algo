@@ -1,3 +1,4 @@
+console.log("ss");
 const nemo = ["nemo"];
 
 function findNemo(array) {
